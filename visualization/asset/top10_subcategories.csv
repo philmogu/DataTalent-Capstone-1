@@ -1,0 +1,11 @@
+Rank,Main Category,Subcategory ID,Expanded Name,Percent of Pie
+1,cs,cs.LG,Machine Learning,8.11
+2,cs,cs.CV,Computer Vision and Pattern Recognition,5.79
+3,cs,cs.AI,Artificial Intelligence,4.80
+4,cs,cs.CL,Computation and Language,3.18
+5,math,math.MP,Mathematical Physics,3.07
+6,math,math.CO,Combinatorics,2.61
+7,stat,stat.ML,Machine Learning,2.61
+8,math,math.AP,Analysis of PDEs,2.46
+9,math,math.PR,Probability,2.21
+10,math,math.AG,Algebraic Geometry,2.03

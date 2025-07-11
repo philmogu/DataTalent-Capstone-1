@@ -1,0 +1,1696 @@
+month,major_category,count
+2007-05,Computer Science,7928
+2007-05,Mathematics,62301
+2007-05,Other,104407
+2007-05,Physics,11518
+2007-05,Quantitative Biology,2819
+2007-05,Statistics,52
+2007-06,Computer Science,233
+2007-06,Mathematics,2522
+2007-06,Other,1326
+2007-06,Physics,263
+2007-06,Quantitative Biology,88
+2007-06,Statistics,795
+2007-07,Computer Science,1296
+2007-07,Mathematics,2112
+2007-07,Other,1119
+2007-07,Physics,234
+2007-07,Quantitative Biology,93
+2007-07,Statistics,45
+2007-08,Computer Science,200
+2007-08,Mathematics,1036
+2007-08,Other,1103
+2007-08,Physics,208
+2007-08,Quantitative Biology,88
+2007-08,Statistics,73
+2007-09,Computer Science,164
+2007-09,Mathematics,1187
+2007-09,Other,1042
+2007-09,Physics,251
+2007-09,Quantitative Biology,69
+2007-09,Statistics,59
+2007-10,Computer Science,229
+2007-10,Mathematics,1452
+2007-10,Other,1357
+2007-10,Physics,202
+2007-10,Quantitative Biology,56
+2007-10,Statistics,53
+2007-11,Computer Science,263
+2007-11,Mathematics,1412
+2007-11,Other,1120
+2007-11,Physics,233
+2007-11,Quantitative Biology,93
+2007-11,Statistics,75
+2007-12,Computer Science,244
+2007-12,Mathematics,1238
+2007-12,Other,1031
+2007-12,Physics,203
+2007-12,Quantitative Biology,91
+2007-12,Statistics,56
+2008-01,Computer Science,214
+2008-01,Mathematics,1220
+2008-01,Other,1103
+2008-01,Physics,294
+2008-01,Quantitative Biology,83
+2008-01,Statistics,54
+2008-02,Computer Science,1130
+2008-02,Mathematics,4717
+2008-02,Other,9804
+2008-02,Physics,517
+2008-02,Quantitative Biology,146
+2008-02,Statistics,92
+2008-03,Computer Science,193
+2008-03,Mathematics,1299
+2008-03,Other,1120
+2008-03,Physics,197
+2008-03,Quantitative Biology,56
+2008-03,Statistics,30
+2008-04,Computer Science,249
+2008-04,Mathematics,1852
+2008-04,Other,1426
+2008-04,Physics,277
+2008-04,Quantitative Biology,64
+2008-04,Statistics,53
+2008-05,Computer Science,265
+2008-05,Mathematics,1306
+2008-05,Other,1118
+2008-05,Physics,241
+2008-05,Quantitative Biology,60
+2008-05,Statistics,44
+2008-06,Computer Science,243
+2008-06,Mathematics,1288
+2008-06,Other,1162
+2008-06,Physics,245
+2008-06,Quantitative Biology,100
+2008-06,Statistics,47
+2008-07,Computer Science,292
+2008-07,Mathematics,1376
+2008-07,Other,1423
+2008-07,Physics,317
+2008-07,Quantitative Biology,99
+2008-07,Statistics,75
+2008-08,Computer Science,197
+2008-08,Mathematics,1143
+2008-08,Other,1183
+2008-08,Physics,217
+2008-08,Quantitative Biology,68
+2008-08,Statistics,81
+2008-09,Computer Science,382
+2008-09,Mathematics,1434
+2008-09,Other,1367
+2008-09,Physics,223
+2008-09,Quantitative Biology,76
+2008-09,Statistics,61
+2008-10,Computer Science,291
+2008-10,Mathematics,1574
+2008-10,Other,1575
+2008-10,Physics,319
+2008-10,Quantitative Biology,64
+2008-10,Statistics,68
+2008-11,Computer Science,345
+2008-11,Mathematics,4419
+2008-11,Other,47447
+2008-11,Physics,1255
+2008-11,Quantitative Biology,87
+2008-11,Statistics,86
+2008-12,Computer Science,747
+2008-12,Mathematics,2498
+2008-12,Other,4100
+2008-12,Physics,942
+2008-12,Quantitative Biology,90
+2008-12,Quantitative Finance,1002
+2008-12,Statistics,413
+2009-01,Computer Science,340
+2009-01,Mathematics,1532
+2009-01,Other,3671
+2009-01,Physics,430
+2009-01,Quantitative Biology,82
+2009-01,Quantitative Finance,50
+2009-01,Statistics,106
+2009-02,Computer Science,325
+2009-02,Mathematics,1776
+2009-02,Other,3312
+2009-02,Physics,445
+2009-02,Quantitative Biology,79
+2009-02,Quantitative Finance,35
+2009-02,Statistics,61
+2009-03,Computer Science,436
+2009-03,Mathematics,1963
+2009-03,Other,2586
+2009-03,Physics,349
+2009-03,Quantitative Biology,80
+2009-03,Quantitative Finance,39
+2009-03,Statistics,97
+2009-04,Computer Science,407
+2009-04,Mathematics,1867
+2009-04,Other,2947
+2009-04,Physics,443
+2009-04,Quantitative Biology,88
+2009-04,Quantitative Finance,41
+2009-04,Statistics,82
+2009-05,Computer Science,375
+2009-05,Mathematics,1455
+2009-05,Other,2102
+2009-05,Physics,401
+2009-05,Quantitative Biology,71
+2009-05,Quantitative Finance,22
+2009-05,Statistics,59
+2009-06,Computer Science,496
+2009-06,Mathematics,1632
+2009-06,Other,4100
+2009-06,Physics,387
+2009-06,Quantitative Biology,73
+2009-06,Quantitative Finance,31
+2009-06,Statistics,107
+2009-07,Computer Science,448
+2009-07,Mathematics,1705
+2009-07,Other,3679
+2009-07,Physics,339
+2009-07,Quantitative Biology,78
+2009-07,Quantitative Finance,27
+2009-07,Statistics,67
+2009-08,Computer Science,444
+2009-08,Mathematics,1432
+2009-08,Other,2824
+2009-08,Physics,322
+2009-08,Quantitative Biology,71
+2009-08,Quantitative Finance,26
+2009-08,Statistics,143
+2009-09,Computer Science,972
+2009-09,Mathematics,3649
+2009-09,Other,10412
+2009-09,Physics,786
+2009-09,Quantitative Biology,176
+2009-09,Quantitative Finance,44
+2009-09,Statistics,302
+2009-10,Computer Science,527
+2009-10,Mathematics,5316
+2009-10,Other,83728
+2009-10,Physics,1928
+2009-10,Quantitative Biology,490
+2009-10,Quantitative Finance,112
+2009-10,Statistics,96
+2009-11,Computer Science,862
+2009-11,Mathematics,10931
+2009-11,Other,139900
+2009-11,Physics,9902
+2009-11,Quantitative Biology,1667
+2009-11,Quantitative Finance,445
+2009-11,Statistics,140
+2009-12,Computer Science,618
+2009-12,Mathematics,1809
+2009-12,Other,3605
+2009-12,Physics,391
+2009-12,Quantitative Biology,86
+2009-12,Quantitative Finance,44
+2009-12,Statistics,78
+2010-01,Computer Science,557
+2010-01,Mathematics,2003
+2010-01,Other,3727
+2010-01,Physics,452
+2010-01,Quantitative Biology,66
+2010-01,Quantitative Finance,58
+2010-01,Statistics,104
+2010-02,Computer Science,602
+2010-02,Mathematics,1739
+2010-02,Other,4159
+2010-02,Physics,394
+2010-02,Quantitative Biology,82
+2010-02,Quantitative Finance,50
+2010-02,Statistics,101
+2010-03,Computer Science,588
+2010-03,Mathematics,2171
+2010-03,Other,3216
+2010-03,Physics,440
+2010-03,Quantitative Biology,99
+2010-03,Quantitative Finance,29
+2010-03,Statistics,95
+2010-04,Computer Science,645
+2010-04,Mathematics,2071
+2010-04,Other,8137
+2010-04,Physics,437
+2010-04,Quantitative Biology,75
+2010-04,Quantitative Finance,69
+2010-04,Statistics,76
+2010-05,Computer Science,519
+2010-05,Mathematics,1887
+2010-05,Other,4069
+2010-05,Physics,458
+2010-05,Quantitative Biology,75
+2010-05,Quantitative Finance,38
+2010-05,Statistics,74
+2010-06,Computer Science,744
+2010-06,Mathematics,2000
+2010-06,Other,1892
+2010-06,Physics,444
+2010-06,Quantitative Biology,77
+2010-06,Quantitative Finance,45
+2010-06,Statistics,114
+2010-07,Computer Science,953
+2010-07,Mathematics,1887
+2010-07,Other,1929
+2010-07,Physics,502
+2010-07,Quantitative Biology,106
+2010-07,Quantitative Finance,41
+2010-07,Statistics,88
+2010-08,Computer Science,574
+2010-08,Mathematics,1934
+2010-08,Other,1700
+2010-08,Physics,390
+2010-08,Quantitative Biology,95
+2010-08,Quantitative Finance,46
+2010-08,Statistics,92
+2010-09,Computer Science,700
+2010-09,Mathematics,2044
+2010-09,Other,2210
+2010-09,Physics,469
+2010-09,Quantitative Biology,95
+2010-09,Quantitative Finance,39
+2010-09,Statistics,90
+2010-10,Computer Science,563
+2010-10,Mathematics,2373
+2010-10,Other,3602
+2010-10,Physics,584
+2010-10,Quantitative Biology,113
+2010-10,Quantitative Finance,44
+2010-10,Statistics,215
+2010-11,Computer Science,623
+2010-11,Mathematics,2635
+2010-11,Other,8875
+2010-11,Physics,608
+2010-11,Quantitative Biology,106
+2010-11,Quantitative Finance,70
+2010-11,Statistics,210
+2010-12,Computer Science,656
+2010-12,Mathematics,1972
+2010-12,Other,4764
+2010-12,Physics,548
+2010-12,Quantitative Biology,110
+2010-12,Quantitative Finance,30
+2010-12,Statistics,77
+2011-01,Computer Science,463
+2011-01,Mathematics,1854
+2011-01,Other,3663
+2011-01,Physics,388
+2011-01,Quantitative Biology,86
+2011-01,Quantitative Finance,33
+2011-01,Statistics,104
+2011-02,Computer Science,675
+2011-02,Mathematics,2247
+2011-02,Other,6287
+2011-02,Physics,487
+2011-02,Quantitative Biology,76
+2011-02,Quantitative Finance,46
+2011-02,Statistics,130
+2011-03,Computer Science,701
+2011-03,Mathematics,2619
+2011-03,Other,4932
+2011-03,Physics,540
+2011-03,Quantitative Biology,84
+2011-03,Quantitative Finance,104
+2011-03,Statistics,128
+2011-04,Computer Science,571
+2011-04,Mathematics,2413
+2011-04,Other,4306
+2011-04,Physics,441
+2011-04,Quantitative Biology,88
+2011-04,Quantitative Finance,37
+2011-04,Statistics,137
+2011-05,Computer Science,681
+2011-05,Mathematics,2424
+2011-05,Other,4983
+2011-05,Physics,590
+2011-05,Quantitative Biology,101
+2011-05,Quantitative Finance,49
+2011-05,Statistics,151
+2011-06,Computer Science,877
+2011-06,Mathematics,2283
+2011-06,Other,3572
+2011-06,Physics,503
+2011-06,Quantitative Biology,78
+2011-06,Quantitative Finance,32
+2011-06,Statistics,163
+2011-07,Computer Science,756
+2011-07,Mathematics,2315
+2011-07,Other,5706
+2011-07,Physics,521
+2011-07,Quantitative Biology,95
+2011-07,Quantitative Finance,31
+2011-07,Statistics,136
+2011-08,Computer Science,842
+2011-08,Mathematics,2574
+2011-08,Other,4589
+2011-08,Physics,608
+2011-08,Quantitative Biology,100
+2011-08,Quantitative Finance,33
+2011-08,Statistics,190
+2011-09,Computer Science,924
+2011-09,Mathematics,2647
+2011-09,Other,4957
+2011-09,Physics,638
+2011-09,Quantitative Biology,129
+2011-09,Quantitative Finance,39
+2011-09,Statistics,143
+2011-10,Computer Science,816
+2011-10,Mathematics,2494
+2011-10,Other,2886
+2011-10,Physics,703
+2011-10,Quantitative Biology,88
+2011-10,Quantitative Finance,66
+2011-10,Statistics,128
+2011-11,Computer Science,1287
+2011-11,Mathematics,3506
+2011-11,Other,4138
+2011-11,Physics,777
+2011-11,Quantitative Biology,202
+2011-11,Quantitative Finance,37
+2011-11,Statistics,248
+2011-12,Computer Science,700
+2011-12,Mathematics,2340
+2011-12,Other,2869
+2011-12,Physics,622
+2011-12,Quantitative Biology,109
+2011-12,Quantitative Finance,59
+2011-12,Statistics,156
+2012-01,Computer Science,744
+2012-01,Mathematics,2489
+2012-01,Other,2926
+2012-01,Physics,591
+2012-01,Quantitative Biology,86
+2012-01,Quantitative Finance,39
+2012-01,Statistics,166
+2012-02,Computer Science,1117
+2012-02,Mathematics,2668
+2012-02,Other,2663
+2012-02,Physics,638
+2012-02,Quantitative Biology,107
+2012-02,Quantitative Finance,49
+2012-02,Statistics,226
+2012-03,Computer Science,1082
+2012-03,Mathematics,2659
+2012-03,Other,2970
+2012-03,Physics,649
+2012-03,Quantitative Biology,118
+2012-03,Quantitative Finance,44
+2012-03,Statistics,280
+2012-04,Computer Science,1141
+2012-04,Mathematics,2491
+2012-04,Other,2767
+2012-04,Physics,584
+2012-04,Quantitative Biology,119
+2012-04,Quantitative Finance,71
+2012-04,Statistics,151
+2012-05,Computer Science,1024
+2012-05,Mathematics,2772
+2012-05,Other,2872
+2012-05,Physics,716
+2012-05,Quantitative Biology,113
+2012-05,Quantitative Finance,76
+2012-05,Statistics,248
+2012-06,Computer Science,1200
+2012-06,Mathematics,2538
+2012-06,Other,3065
+2012-06,Physics,642
+2012-06,Quantitative Biology,145
+2012-06,Quantitative Finance,60
+2012-06,Statistics,341
+2012-07,Computer Science,1577
+2012-07,Mathematics,2650
+2012-07,Other,3146
+2012-07,Physics,685
+2012-07,Quantitative Biology,125
+2012-07,Quantitative Finance,40
+2012-07,Statistics,438
+2012-08,Computer Science,1032
+2012-08,Mathematics,2375
+2012-08,Other,5597
+2012-08,Physics,816
+2012-08,Quantitative Biology,158
+2012-08,Quantitative Finance,38
+2012-08,Statistics,166
+2012-09,Computer Science,975
+2012-09,Mathematics,2632
+2012-09,Other,2953
+2012-09,Physics,668
+2012-09,Quantitative Biology,122
+2012-09,Quantitative Finance,42
+2012-09,Statistics,188
+2012-10,Computer Science,1374
+2012-10,Mathematics,3303
+2012-10,Other,3640
+2012-10,Physics,878
+2012-10,Quantitative Biology,206
+2012-10,Quantitative Finance,68
+2012-10,Statistics,299
+2012-11,Computer Science,1094
+2012-11,Mathematics,2942
+2012-11,Other,3226
+2012-11,Physics,708
+2012-11,Quantitative Biology,125
+2012-11,Quantitative Finance,55
+2012-11,Statistics,288
+2012-12,Computer Science,1043
+2012-12,Mathematics,2490
+2012-12,Other,2784
+2012-12,Physics,665
+2012-12,Quantitative Biology,164
+2012-12,Quantitative Finance,42
+2012-12,Statistics,222
+2013-01,Computer Science,1594
+2013-01,Mathematics,3286
+2013-01,Other,3780
+2013-01,Physics,860
+2013-01,Quantitative Biology,197
+2013-01,Quantitative Finance,82
+2013-01,Statistics,368
+2013-02,Computer Science,1410
+2013-02,Mathematics,2987
+2013-02,Other,3148
+2013-02,Physics,665
+2013-02,Quantitative Biology,160
+2013-02,Quantitative Finance,60
+2013-02,Statistics,271
+2013-03,Computer Science,1336
+2013-03,Mathematics,2950
+2013-03,Other,3535
+2013-03,Physics,743
+2013-03,Quantitative Biology,142
+2013-03,Quantitative Finance,54
+2013-03,Statistics,263
+2013-04,Computer Science,1743
+2013-04,Mathematics,3094
+2013-04,Other,3565
+2013-04,Physics,704
+2013-04,Quantitative Biology,182
+2013-04,Quantitative Finance,62
+2013-04,Statistics,273
+2013-05,Computer Science,1403
+2013-05,Mathematics,3132
+2013-05,Other,11317
+2013-05,Physics,1269
+2013-05,Quantitative Biology,274
+2013-05,Quantitative Finance,67
+2013-05,Statistics,264
+2013-06,Computer Science,1216
+2013-06,Mathematics,2634
+2013-06,Other,3463
+2013-06,Physics,750
+2013-06,Quantitative Biology,161
+2013-06,Quantitative Finance,53
+2013-06,Statistics,255
+2013-07,Computer Science,1419
+2013-07,Mathematics,3058
+2013-07,Other,3695
+2013-07,Physics,838
+2013-07,Quantitative Biology,186
+2013-07,Quantitative Finance,65
+2013-07,Statistics,246
+2013-08,Computer Science,1309
+2013-08,Mathematics,2531
+2013-08,Other,3734
+2013-08,Physics,796
+2013-08,Quantitative Biology,252
+2013-08,Quantitative Finance,54
+2013-08,Statistics,203
+2013-09,Computer Science,1290
+2013-09,Mathematics,2987
+2013-09,Other,3562
+2013-09,Physics,805
+2013-09,Quantitative Biology,176
+2013-09,Quantitative Finance,67
+2013-09,Statistics,241
+2013-10,Computer Science,1453
+2013-10,Mathematics,3267
+2013-10,Other,4327
+2013-10,Physics,963
+2013-10,Quantitative Biology,210
+2013-10,Quantitative Finance,79
+2013-10,Statistics,299
+2013-11,Computer Science,1276
+2013-11,Mathematics,3066
+2013-11,Other,3903
+2013-11,Physics,734
+2013-11,Quantitative Biology,175
+2013-11,Quantitative Finance,64
+2013-11,Statistics,292
+2013-12,Computer Science,1505
+2013-12,Mathematics,3167
+2013-12,Other,3757
+2013-12,Physics,710
+2013-12,Quantitative Biology,200
+2013-12,Quantitative Finance,69
+2013-12,Statistics,436
+2014-01,Computer Science,1829
+2014-01,Mathematics,3533
+2014-01,Other,3659
+2014-01,Physics,847
+2014-01,Quantitative Biology,139
+2014-01,Quantitative Finance,68
+2014-01,Statistics,306
+2014-02,Computer Science,1530
+2014-02,Mathematics,4235
+2014-02,Other,3388
+2014-02,Physics,825
+2014-02,Quantitative Biology,153
+2014-02,Quantitative Finance,63
+2014-02,Statistics,304
+2014-03,Computer Science,1344
+2014-03,Mathematics,3254
+2014-03,Other,4114
+2014-03,Physics,900
+2014-03,Quantitative Biology,247
+2014-03,Quantitative Finance,80
+2014-03,Statistics,299
+2014-04,Computer Science,1735
+2014-04,Mathematics,3385
+2014-04,Other,3702
+2014-04,Physics,784
+2014-04,Quantitative Biology,187
+2014-04,Quantitative Finance,78
+2014-04,Statistics,284
+2014-05,Computer Science,1675
+2014-05,Mathematics,3079
+2014-05,Other,3742
+2014-05,Physics,796
+2014-05,Quantitative Biology,178
+2014-05,Quantitative Finance,70
+2014-05,Statistics,421
+2014-06,Computer Science,1454
+2014-06,Mathematics,2845
+2014-06,Other,3368
+2014-06,Physics,708
+2014-06,Quantitative Biology,154
+2014-06,Quantitative Finance,87
+2014-06,Statistics,275
+2014-07,Computer Science,1701
+2014-07,Mathematics,3476
+2014-07,Other,3997
+2014-07,Physics,926
+2014-07,Quantitative Biology,202
+2014-07,Quantitative Finance,73
+2014-07,Statistics,336
+2014-08,Computer Science,1404
+2014-08,Mathematics,2601
+2014-08,Other,3652
+2014-08,Physics,776
+2014-08,Quantitative Biology,164
+2014-08,Quantitative Finance,83
+2014-08,Statistics,276
+2014-09,Computer Science,1519
+2014-09,Mathematics,3286
+2014-09,Other,4259
+2014-09,Physics,824
+2014-09,Quantitative Biology,176
+2014-09,Quantitative Finance,90
+2014-09,Statistics,251
+2014-10,Computer Science,1579
+2014-10,Mathematics,4511
+2014-10,Other,5572
+2014-10,Physics,986
+2014-10,Quantitative Biology,211
+2014-10,Quantitative Finance,71
+2014-10,Statistics,389
+2014-11,Computer Science,1547
+2014-11,Mathematics,5146
+2014-11,Other,20607
+2014-11,Physics,1275
+2014-11,Quantitative Biology,204
+2014-11,Quantitative Finance,58
+2014-11,Statistics,357
+2014-12,Computer Science,1748
+2014-12,Mathematics,3760
+2014-12,Other,4785
+2014-12,Physics,929
+2014-12,Quantitative Biology,227
+2014-12,Quantitative Finance,92
+2014-12,Statistics,352
+2015-01,Computer Science,1453
+2015-01,Mathematics,3486
+2015-01,Other,3721
+2015-01,Physics,816
+2015-01,Quantitative Biology,195
+2015-01,Quantitative Finance,58
+2015-01,Statistics,319
+2015-02,Computer Science,1615
+2015-02,Mathematics,3337
+2015-02,Other,3566
+2015-02,Physics,852
+2015-02,Quantitative Biology,171
+2015-02,Quantitative Finance,75
+2015-02,Statistics,338
+2015-03,Computer Science,4360
+2015-03,Mathematics,7098
+2015-03,Other,13522
+2015-03,Physics,2274
+2015-03,Quantitative Biology,452
+2015-03,Quantitative Finance,183
+2015-03,Statistics,831
+2015-04,Computer Science,1837
+2015-04,Mathematics,3395
+2015-04,Other,4196
+2015-04,Physics,900
+2015-04,Quantitative Biology,181
+2015-04,Quantitative Finance,80
+2015-04,Statistics,348
+2015-05,Computer Science,2611
+2015-05,Mathematics,10405
+2015-05,Other,56852
+2015-05,Physics,7261
+2015-05,Quantitative Biology,869
+2015-05,Quantitative Finance,188
+2015-05,Statistics,546
+2015-06,Computer Science,3145
+2015-06,Mathematics,14291
+2015-06,Other,93524
+2015-06,Physics,11102
+2015-06,Quantitative Biology,1100
+2015-06,Quantitative Finance,252
+2015-06,Statistics,796
+2015-07,Computer Science,2371
+2015-07,Mathematics,3701
+2015-07,Other,4911
+2015-07,Physics,913
+2015-07,Quantitative Biology,154
+2015-07,Quantitative Finance,77
+2015-07,Statistics,362
+2015-08,Computer Science,1640
+2015-08,Mathematics,3247
+2015-08,Other,5099
+2015-08,Physics,958
+2015-08,Quantitative Biology,169
+2015-08,Quantitative Finance,72
+2015-08,Statistics,319
+2015-09,Computer Science,2040
+2015-09,Mathematics,4355
+2015-09,Other,6862
+2015-09,Physics,1210
+2015-09,Quantitative Biology,177
+2015-09,Quantitative Finance,97
+2015-09,Statistics,467
+2015-10,Computer Science,1709
+2015-10,Mathematics,4143
+2015-10,Other,6510
+2015-10,Physics,1193
+2015-10,Quantitative Biology,171
+2015-10,Quantitative Finance,73
+2015-10,Statistics,398
+2015-11,Computer Science,1883
+2015-11,Mathematics,3643
+2015-11,Other,5266
+2015-11,Physics,1001
+2015-11,Quantitative Biology,244
+2015-11,Quantitative Finance,74
+2015-11,Statistics,449
+2015-12,Computer Science,1885
+2015-12,Mathematics,4268
+2015-12,Other,6013
+2015-12,Physics,1181
+2015-12,Quantitative Biology,228
+2015-12,Quantitative Finance,93
+2015-12,Statistics,396
+2016-01,Computer Science,1793
+2016-01,Mathematics,4849
+2016-01,Other,6487
+2016-01,Physics,1268
+2016-01,Quantitative Biology,198
+2016-01,Quantitative Finance,97
+2016-01,Statistics,359
+2016-02,Computer Science,2057
+2016-02,Mathematics,4196
+2016-02,Other,6012
+2016-02,Physics,1238
+2016-02,Quantitative Biology,259
+2016-02,Quantitative Finance,105
+2016-02,Statistics,489
+2016-03,Computer Science,2271
+2016-03,Mathematics,4522
+2016-03,Other,7236
+2016-03,Physics,1273
+2016-03,Quantitative Biology,218
+2016-03,Quantitative Finance,107
+2016-03,Statistics,489
+2016-04,Computer Science,2476
+2016-04,Mathematics,4030
+2016-04,Other,6242
+2016-04,Physics,1361
+2016-04,Quantitative Biology,229
+2016-04,Quantitative Finance,71
+2016-04,Statistics,435
+2016-05,Computer Science,2491
+2016-05,Mathematics,4219
+2016-05,Other,6072
+2016-05,Physics,1364
+2016-05,Quantitative Biology,209
+2016-05,Quantitative Finance,99
+2016-05,Statistics,541
+2016-06,Computer Science,2827
+2016-06,Mathematics,4114
+2016-06,Other,6987
+2016-06,Physics,1347
+2016-06,Quantitative Biology,227
+2016-06,Quantitative Finance,71
+2016-06,Statistics,586
+2016-07,Computer Science,2270
+2016-07,Mathematics,3560
+2016-07,Other,5318
+2016-07,Physics,1099
+2016-07,Quantitative Biology,182
+2016-07,Quantitative Finance,71
+2016-07,Statistics,414
+2016-08,Computer Science,3085
+2016-08,Mathematics,5393
+2016-08,Other,18354
+2016-08,Physics,2163
+2016-08,Quantitative Biology,363
+2016-08,Quantitative Finance,148
+2016-08,Statistics,582
+2016-09,Computer Science,2774
+2016-09,Mathematics,7456
+2016-09,Other,12064
+2016-09,Physics,2066
+2016-09,Quantitative Biology,378
+2016-09,Quantitative Finance,105
+2016-09,Statistics,514
+2016-10,Computer Science,2545
+2016-10,Mathematics,4118
+2016-10,Other,6036
+2016-10,Physics,1213
+2016-10,Quantitative Biology,260
+2016-10,Quantitative Finance,105
+2016-10,Statistics,497
+2016-11,Computer Science,7372
+2016-11,Mathematics,7482
+2016-11,Other,8965
+2016-11,Physics,1833
+2016-11,Quantitative Biology,358
+2016-11,Quantitative Finance,113
+2016-11,Statistics,791
+2016-12,Computer Science,2448
+2016-12,Mathematics,4061
+2016-12,Other,6845
+2016-12,Physics,1315
+2016-12,Quantitative Biology,229
+2016-12,Quantitative Finance,95
+2016-12,Statistics,544
+2017-01,Computer Science,2601
+2017-01,Mathematics,4305
+2017-01,Other,6014
+2017-01,Physics,1170
+2017-01,Quantitative Biology,254
+2017-01,Quantitative Finance,114
+2017-01,Statistics,459
+2017-02,Computer Science,2654
+2017-02,Mathematics,3936
+2017-02,Other,6090
+2017-02,Physics,1193
+2017-02,Quantitative Biology,233
+2017-02,Quantitative Finance,88
+2017-02,Statistics,534
+2017-03,Computer Science,3365
+2017-03,Mathematics,4752
+2017-03,Other,6844
+2017-03,Physics,1461
+2017-03,Quantitative Biology,244
+2017-03,Quantitative Finance,95
+2017-03,Statistics,588
+2017-04,Computer Science,2969
+2017-04,Mathematics,4007
+2017-04,Other,6547
+2017-04,Physics,1474
+2017-04,Quantitative Biology,243
+2017-04,Quantitative Finance,81
+2017-04,Statistics,549
+2017-05,Computer Science,3222
+2017-05,Mathematics,5003
+2017-05,Other,6132
+2017-05,Physics,1371
+2017-05,Quantitative Biology,259
+2017-05,Quantitative Finance,101
+2017-05,Statistics,617
+2017-06,Computer Science,3004
+2017-06,Mathematics,4330
+2017-06,Other,5656
+2017-06,Physics,1307
+2017-06,Quantitative Biology,228
+2017-06,Quantitative Finance,76
+2017-06,Statistics,594
+2017-07,Computer Science,3257
+2017-07,Mathematics,3744
+2017-07,Other,5032
+2017-07,Physics,1099
+2017-07,Quantitative Biology,213
+2017-07,Quantitative Finance,95
+2017-07,Statistics,588
+2017-08,Computer Science,3386
+2017-08,Mathematics,4494
+2017-08,Other,10680
+2017-08,Physics,1674
+2017-08,Quantitative Biology,237
+2017-08,Quantitative Finance,105
+2017-08,Statistics,629
+2017-09,Computer Science,3413
+2017-09,Economics,12
+2017-09,Electrical Engineering and Systems Science,40
+2017-09,Mathematics,4469
+2017-09,Other,6592
+2017-09,Physics,1541
+2017-09,Quantitative Biology,209
+2017-09,Quantitative Finance,74
+2017-09,Statistics,577
+2017-10,Computer Science,3165
+2017-10,Economics,36
+2017-10,Electrical Engineering and Systems Science,101
+2017-10,Mathematics,4675
+2017-10,Other,6444
+2017-10,Physics,1562
+2017-10,Quantitative Biology,237
+2017-10,Quantitative Finance,72
+2017-10,Statistics,831
+2017-11,Computer Science,3946
+2017-11,Economics,19
+2017-11,Electrical Engineering and Systems Science,133
+2017-11,Mathematics,4290
+2017-11,Other,6998
+2017-11,Physics,1572
+2017-11,Quantitative Biology,257
+2017-11,Quantitative Finance,71
+2017-11,Statistics,896
+2017-12,Computer Science,2956
+2017-12,Economics,7
+2017-12,Electrical Engineering and Systems Science,122
+2017-12,Mathematics,3898
+2017-12,Other,6273
+2017-12,Physics,1275
+2017-12,Quantitative Biology,206
+2017-12,Quantitative Finance,69
+2017-12,Statistics,640
+2018-01,Computer Science,3141
+2018-01,Economics,38
+2018-01,Electrical Engineering and Systems Science,152
+2018-01,Mathematics,4663
+2018-01,Other,6408
+2018-01,Physics,1474
+2018-01,Quantitative Biology,230
+2018-01,Quantitative Finance,107
+2018-01,Statistics,669
+2018-02,Computer Science,3759
+2018-02,Economics,22
+2018-02,Electrical Engineering and Systems Science,206
+2018-02,Mathematics,4281
+2018-02,Other,6139
+2018-02,Physics,1672
+2018-02,Quantitative Biology,283
+2018-02,Quantitative Finance,105
+2018-02,Statistics,832
+2018-03,Computer Science,4095
+2018-03,Economics,27
+2018-03,Electrical Engineering and Systems Science,237
+2018-03,Mathematics,5244
+2018-03,Other,6285
+2018-03,Physics,1575
+2018-03,Quantitative Biology,240
+2018-03,Quantitative Finance,94
+2018-03,Statistics,860
+2018-04,Computer Science,3922
+2018-04,Economics,17
+2018-04,Electrical Engineering and Systems Science,180
+2018-04,Mathematics,4228
+2018-04,Other,6517
+2018-04,Physics,1584
+2018-04,Quantitative Biology,210
+2018-04,Quantitative Finance,92
+2018-04,Statistics,719
+2018-05,Computer Science,4852
+2018-05,Economics,23
+2018-05,Electrical Engineering and Systems Science,216
+2018-05,Mathematics,4855
+2018-05,Other,6912
+2018-05,Physics,1703
+2018-05,Quantitative Biology,256
+2018-05,Quantitative Finance,107
+2018-05,Statistics,955
+2018-06,Computer Science,4408
+2018-06,Economics,27
+2018-06,Electrical Engineering and Systems Science,258
+2018-06,Mathematics,4470
+2018-06,Other,5668
+2018-06,Physics,1408
+2018-06,Quantitative Biology,217
+2018-06,Quantitative Finance,95
+2018-06,Statistics,1061
+2018-07,Computer Science,4775
+2018-07,Economics,58
+2018-07,Electrical Engineering and Systems Science,292
+2018-07,Mathematics,4365
+2018-07,Other,6297
+2018-07,Physics,1394
+2018-07,Quantitative Biology,222
+2018-07,Quantitative Finance,109
+2018-07,Statistics,1007
+2018-08,Computer Science,4164
+2018-08,Economics,39
+2018-08,Electrical Engineering and Systems Science,243
+2018-08,Mathematics,4745
+2018-08,Other,7591
+2018-08,Physics,1839
+2018-08,Quantitative Biology,245
+2018-08,Quantitative Finance,121
+2018-08,Statistics,872
+2018-09,Computer Science,4332
+2018-09,Economics,30
+2018-09,Electrical Engineering and Systems Science,191
+2018-09,Mathematics,4343
+2018-09,Other,5954
+2018-09,Physics,1363
+2018-09,Quantitative Biology,228
+2018-09,Quantitative Finance,98
+2018-09,Statistics,909
+2018-10,Computer Science,5079
+2018-10,Economics,34
+2018-10,Electrical Engineering and Systems Science,289
+2018-10,Mathematics,5140
+2018-10,Other,7113
+2018-10,Physics,1753
+2018-10,Quantitative Biology,274
+2018-10,Quantitative Finance,140
+2018-10,Statistics,1223
+2018-11,Computer Science,5252
+2018-11,Economics,43
+2018-11,Electrical Engineering and Systems Science,381
+2018-11,Mathematics,4591
+2018-11,Other,6345
+2018-11,Physics,1614
+2018-11,Quantitative Biology,275
+2018-11,Quantitative Finance,99
+2018-11,Statistics,1197
+2018-12,Computer Science,4355
+2018-12,Economics,40
+2018-12,Electrical Engineering and Systems Science,281
+2018-12,Mathematics,4237
+2018-12,Other,6676
+2018-12,Physics,1835
+2018-12,Quantitative Biology,228
+2018-12,Quantitative Finance,103
+2018-12,Statistics,1064
+2019-01,Computer Science,4277
+2019-01,Economics,57
+2019-01,Electrical Engineering and Systems Science,254
+2019-01,Mathematics,4480
+2019-01,Other,6438
+2019-01,Physics,1543
+2019-01,Quantitative Biology,222
+2019-01,Quantitative Finance,113
+2019-01,Statistics,1088
+2019-02,Computer Science,4530
+2019-02,Economics,37
+2019-02,Electrical Engineering and Systems Science,343
+2019-02,Mathematics,6203
+2019-02,Other,6186
+2019-02,Physics,1530
+2019-02,Quantitative Biology,234
+2019-02,Quantitative Finance,98
+2019-02,Statistics,1156
+2019-03,Computer Science,5011
+2019-03,Economics,42
+2019-03,Electrical Engineering and Systems Science,318
+2019-03,Mathematics,4767
+2019-03,Other,6537
+2019-03,Physics,1731
+2019-03,Quantitative Biology,309
+2019-03,Quantitative Finance,106
+2019-03,Statistics,1131
+2019-04,Computer Science,6034
+2019-04,Economics,34
+2019-04,Electrical Engineering and Systems Science,405
+2019-04,Mathematics,4571
+2019-04,Other,5938
+2019-04,Physics,1550
+2019-04,Quantitative Biology,241
+2019-04,Quantitative Finance,110
+2019-04,Statistics,1198
+2019-05,Computer Science,6445
+2019-05,Economics,56
+2019-05,Electrical Engineering and Systems Science,540
+2019-05,Mathematics,5353
+2019-05,Other,7241
+2019-05,Physics,2010
+2019-05,Quantitative Biology,263
+2019-05,Quantitative Finance,118
+2019-05,Statistics,1593
+2019-06,Computer Science,6226
+2019-06,Economics,46
+2019-06,Electrical Engineering and Systems Science,597
+2019-06,Mathematics,4302
+2019-06,Other,6022
+2019-06,Physics,1717
+2019-06,Quantitative Biology,225
+2019-06,Quantitative Finance,134
+2019-06,Statistics,1593
+2019-07,Computer Science,6581
+2019-07,Economics,57
+2019-07,Electrical Engineering and Systems Science,921
+2019-07,Mathematics,5283
+2019-07,Other,6955
+2019-07,Physics,1926
+2019-07,Quantitative Biology,349
+2019-07,Quantitative Finance,157
+2019-07,Statistics,1347
+2019-08,Computer Science,5938
+2019-08,Economics,59
+2019-08,Electrical Engineering and Systems Science,768
+2019-08,Mathematics,4823
+2019-08,Other,13479
+2019-08,Physics,1947
+2019-08,Quantitative Biology,270
+2019-08,Quantitative Finance,134
+2019-08,Statistics,1162
+2019-09,Computer Science,6713
+2019-09,Economics,76
+2019-09,Electrical Engineering and Systems Science,803
+2019-09,Mathematics,5062
+2019-09,Other,7243
+2019-09,Physics,1940
+2019-09,Quantitative Biology,255
+2019-09,Quantitative Finance,133
+2019-09,Statistics,1372
+2019-10,Computer Science,7310
+2019-10,Economics,64
+2019-10,Electrical Engineering and Systems Science,1062
+2019-10,Mathematics,5840
+2019-10,Other,7789
+2019-10,Physics,2280
+2019-10,Quantitative Biology,303
+2019-10,Quantitative Finance,144
+2019-10,Statistics,1819
+2019-11,Computer Science,6686
+2019-11,Economics,59
+2019-11,Electrical Engineering and Systems Science,851
+2019-11,Mathematics,4722
+2019-11,Other,5530
+2019-11,Physics,1536
+2019-11,Quantitative Biology,322
+2019-11,Quantitative Finance,120
+2019-11,Statistics,1643
+2019-12,Computer Science,5935
+2019-12,Economics,66
+2019-12,Electrical Engineering and Systems Science,878
+2019-12,Mathematics,5352
+2019-12,Other,5739
+2019-12,Physics,1704
+2019-12,Quantitative Biology,265
+2019-12,Quantitative Finance,152
+2019-12,Statistics,1425
+2020-01,Computer Science,6269
+2020-01,Economics,82
+2020-01,Electrical Engineering and Systems Science,962
+2020-01,Mathematics,5721
+2020-01,Other,9972
+2020-01,Physics,2557
+2020-01,Quantitative Biology,274
+2020-01,Quantitative Finance,137
+2020-01,Statistics,1421
+2020-02,Computer Science,6893
+2020-02,Economics,75
+2020-02,Electrical Engineering and Systems Science,1133
+2020-02,Mathematics,5058
+2020-02,Other,6614
+2020-02,Physics,2157
+2020-02,Quantitative Biology,277
+2020-02,Quantitative Finance,133
+2020-02,Statistics,1660
+2020-03,Computer Science,7098
+2020-03,Economics,58
+2020-03,Electrical Engineering and Systems Science,1185
+2020-03,Mathematics,5234
+2020-03,Other,6980
+2020-03,Physics,1874
+2020-03,Quantitative Biology,347
+2020-03,Quantitative Finance,145
+2020-03,Statistics,1594
+2020-04,Computer Science,8010
+2020-04,Economics,88
+2020-04,Electrical Engineering and Systems Science,1275
+2020-04,Mathematics,5655
+2020-04,Other,7495
+2020-04,Physics,2357
+2020-04,Quantitative Biology,453
+2020-04,Quantitative Finance,168
+2020-04,Statistics,1487
+2020-05,Computer Science,7838
+2020-05,Economics,116
+2020-05,Electrical Engineering and Systems Science,1289
+2020-05,Mathematics,5372
+2020-05,Other,6873
+2020-05,Physics,2057
+2020-05,Quantitative Biology,458
+2020-05,Quantitative Finance,210
+2020-05,Statistics,1352
+2020-06,Computer Science,8880
+2020-06,Economics,123
+2020-06,Electrical Engineering and Systems Science,1253
+2020-06,Mathematics,6129
+2020-06,Other,6737
+2020-06,Physics,2408
+2020-06,Quantitative Biology,464
+2020-06,Quantitative Finance,177
+2020-06,Statistics,2185
+2020-07,Computer Science,9374
+2020-07,Economics,107
+2020-07,Electrical Engineering and Systems Science,1326
+2020-07,Mathematics,6074
+2020-07,Other,9154
+2020-07,Physics,2707
+2020-07,Quantitative Biology,459
+2020-07,Quantitative Finance,199
+2020-07,Statistics,2078
+2020-08,Computer Science,7786
+2020-08,Economics,102
+2020-08,Electrical Engineering and Systems Science,1264
+2020-08,Mathematics,5242
+2020-08,Other,7520
+2020-08,Physics,2410
+2020-08,Quantitative Biology,340
+2020-08,Quantitative Finance,167
+2020-08,Statistics,1385
+2020-09,Computer Science,8111
+2020-09,Economics,100
+2020-09,Electrical Engineering and Systems Science,1197
+2020-09,Mathematics,5549
+2020-09,Other,7454
+2020-09,Physics,1978
+2020-09,Quantitative Biology,361
+2020-09,Quantitative Finance,201
+2020-09,Statistics,1557
+2020-10,Computer Science,10602
+2020-10,Economics,114
+2020-10,Electrical Engineering and Systems Science,1322
+2020-10,Mathematics,5561
+2020-10,Other,7486
+2020-10,Physics,2286
+2020-10,Quantitative Biology,335
+2020-10,Quantitative Finance,204
+2020-10,Statistics,1782
+2020-11,Computer Science,8778
+2020-11,Economics,114
+2020-11,Electrical Engineering and Systems Science,1201
+2020-11,Mathematics,5174
+2020-11,Other,6472
+2020-11,Physics,1933
+2020-11,Quantitative Biology,369
+2020-11,Quantitative Finance,170
+2020-11,Statistics,1387
+2020-12,Computer Science,8726
+2020-12,Economics,141
+2020-12,Electrical Engineering and Systems Science,1181
+2020-12,Mathematics,5834
+2020-12,Other,7507
+2020-12,Physics,2341
+2020-12,Quantitative Biology,343
+2020-12,Quantitative Finance,199
+2020-12,Statistics,1443
+2021-01,Computer Science,7849
+2021-01,Economics,119
+2021-01,Electrical Engineering and Systems Science,971
+2021-01,Mathematics,5687
+2021-01,Other,8099
+2021-01,Physics,2139
+2021-01,Quantitative Biology,374
+2021-01,Quantitative Finance,222
+2021-01,Statistics,1267
+2021-02,Computer Science,8342
+2021-02,Economics,175
+2021-02,Electrical Engineering and Systems Science,1172
+2021-02,Mathematics,5566
+2021-02,Other,7839
+2021-02,Physics,2322
+2021-02,Quantitative Biology,338
+2021-02,Quantitative Finance,217
+2021-02,Statistics,1311
+2021-03,Computer Science,10522
+2021-03,Economics,146
+2021-03,Electrical Engineering and Systems Science,1376
+2021-03,Mathematics,6479
+2021-03,Other,8526
+2021-03,Physics,2467
+2021-03,Quantitative Biology,354
+2021-03,Quantitative Finance,223
+2021-03,Statistics,1575
+2021-04,Computer Science,9967
+2021-04,Economics,163
+2021-04,Electrical Engineering and Systems Science,1288
+2021-04,Mathematics,5431
+2021-04,Other,7032
+2021-04,Physics,2173
+2021-04,Quantitative Biology,303
+2021-04,Quantitative Finance,220
+2021-04,Statistics,1186
+2021-05,Computer Science,8849
+2021-05,Economics,139
+2021-05,Electrical Engineering and Systems Science,1171
+2021-05,Mathematics,5734
+2021-05,Other,7362
+2021-05,Physics,2002
+2021-05,Quantitative Biology,310
+2021-05,Quantitative Finance,214
+2021-05,Statistics,1139
+2021-06,Computer Science,11723
+2021-06,Economics,153
+2021-06,Electrical Engineering and Systems Science,1446
+2021-06,Mathematics,5977
+2021-06,Other,7777
+2021-06,Physics,2256
+2021-06,Quantitative Biology,371
+2021-06,Quantitative Finance,197
+2021-06,Statistics,1645
+2021-07,Computer Science,9073
+2021-07,Economics,147
+2021-07,Electrical Engineering and Systems Science,1225
+2021-07,Mathematics,6016
+2021-07,Other,7375
+2021-07,Physics,2247
+2021-07,Quantitative Biology,325
+2021-07,Quantitative Finance,266
+2021-07,Statistics,1244
+2021-08,Computer Science,9224
+2021-08,Economics,124
+2021-08,Electrical Engineering and Systems Science,1143
+2021-08,Mathematics,5691
+2021-08,Other,7247
+2021-08,Physics,2075
+2021-08,Quantitative Biology,305
+2021-08,Quantitative Finance,215
+2021-08,Statistics,975
+2021-09,Computer Science,10177
+2021-09,Economics,120
+2021-09,Electrical Engineering and Systems Science,1257
+2021-09,Mathematics,5969
+2021-09,Other,8386
+2021-09,Physics,2314
+2021-09,Quantitative Biology,332
+2021-09,Quantitative Finance,174
+2021-09,Statistics,1072
+2021-10,Computer Science,10665
+2021-10,Economics,142
+2021-10,Electrical Engineering and Systems Science,1415
+2021-10,Mathematics,5513
+2021-10,Other,7431
+2021-10,Physics,1981
+2021-10,Quantitative Biology,309
+2021-10,Quantitative Finance,160
+2021-10,Statistics,1394
+2021-11,Computer Science,10033
+2021-11,Economics,150
+2021-11,Electrical Engineering and Systems Science,1316
+2021-11,Mathematics,5816
+2021-11,Other,7782
+2021-11,Physics,2119
+2021-11,Quantitative Biology,362
+2021-11,Quantitative Finance,191
+2021-11,Statistics,1367
+2021-12,Computer Science,9220
+2021-12,Economics,123
+2021-12,Electrical Engineering and Systems Science,1094
+2021-12,Mathematics,5385
+2021-12,Other,7964
+2021-12,Physics,2097
+2021-12,Quantitative Biology,322
+2021-12,Quantitative Finance,192
+2021-12,Statistics,1074
+2022-01,Computer Science,8256
+2022-01,Economics,145
+2022-01,Electrical Engineering and Systems Science,1115
+2022-01,Mathematics,5630
+2022-01,Other,7717
+2022-01,Physics,2244
+2022-01,Quantitative Biology,313
+2022-01,Quantitative Finance,240
+2022-01,Statistics,1065
+2022-02,Computer Science,8903
+2022-02,Economics,151
+2022-02,Electrical Engineering and Systems Science,1267
+2022-02,Mathematics,5601
+2022-02,Other,7340
+2022-02,Physics,1973
+2022-02,Quantitative Biology,272
+2022-02,Quantitative Finance,191
+2022-02,Statistics,1225
+2022-03,Computer Science,12095
+2022-03,Economics,119
+2022-03,Electrical Engineering and Systems Science,1538
+2022-03,Mathematics,6423
+2022-03,Other,8918
+2022-03,Physics,2378
+2022-03,Quantitative Biology,295
+2022-03,Quantitative Finance,177
+2022-03,Statistics,1294
+2022-04,Computer Science,10098
+2022-04,Economics,118
+2022-04,Electrical Engineering and Systems Science,1376
+2022-04,Mathematics,5097
+2022-04,Other,7241
+2022-04,Physics,1956
+2022-04,Quantitative Biology,265
+2022-04,Quantitative Finance,147
+2022-04,Statistics,950
+2022-05,Computer Science,10753
+2022-05,Economics,138
+2022-05,Electrical Engineering and Systems Science,1271
+2022-05,Mathematics,5734
+2022-05,Other,7201
+2022-05,Physics,1988
+2022-05,Quantitative Biology,369
+2022-05,Quantitative Finance,161
+2022-05,Statistics,1085
+2022-06,Computer Science,10610
+2022-06,Economics,151
+2022-06,Electrical Engineering and Systems Science,1401
+2022-06,Mathematics,5693
+2022-06,Other,7811
+2022-06,Physics,2261
+2022-06,Quantitative Biology,340
+2022-06,Quantitative Finance,203
+2022-06,Statistics,1462
+2022-07,Computer Science,10600
+2022-07,Economics,122
+2022-07,Electrical Engineering and Systems Science,1459
+2022-07,Mathematics,5389
+2022-07,Other,6982
+2022-07,Physics,1910
+2022-07,Quantitative Biology,280
+2022-07,Quantitative Finance,169
+2022-07,Statistics,1062
+2022-08,Computer Science,9623
+2022-08,Economics,149
+2022-08,Electrical Engineering and Systems Science,1252
+2022-08,Mathematics,5922
+2022-08,Other,8248
+2022-08,Physics,2130
+2022-08,Quantitative Biology,280
+2022-08,Quantitative Finance,165
+2022-08,Statistics,1016
+2022-09,Computer Science,10213
+2022-09,Economics,160
+2022-09,Electrical Engineering and Systems Science,1374
+2022-09,Mathematics,5914
+2022-09,Other,8353
+2022-09,Physics,2199
+2022-09,Quantitative Biology,265
+2022-09,Quantitative Finance,187
+2022-09,Statistics,1083
+2022-10,Computer Science,12734
+2022-10,Economics,154
+2022-10,Electrical Engineering and Systems Science,1391
+2022-10,Mathematics,5871
+2022-10,Other,7996
+2022-10,Physics,2259
+2022-10,Quantitative Biology,390
+2022-10,Quantitative Finance,219
+2022-10,Statistics,1422
+2022-11,Computer Science,12147
+2022-11,Economics,146
+2022-11,Electrical Engineering and Systems Science,1627
+2022-11,Mathematics,6170
+2022-11,Other,8468
+2022-11,Physics,2438
+2022-11,Quantitative Biology,377
+2022-11,Quantitative Finance,178
+2022-11,Statistics,1235
+2022-12,Computer Science,9205
+2022-12,Economics,149
+2022-12,Electrical Engineering and Systems Science,1176
+2022-12,Mathematics,5457
+2022-12,Other,7747
+2022-12,Physics,2113
+2022-12,Quantitative Biology,272
+2022-12,Quantitative Finance,218
+2022-12,Statistics,957
+2023-01,Computer Science,8967
+2023-01,Economics,156
+2023-01,Electrical Engineering and Systems Science,1170
+2023-01,Mathematics,5805
+2023-01,Other,7554
+2023-01,Physics,2270
+2023-01,Quantitative Biology,366
+2023-01,Quantitative Finance,183
+2023-01,Statistics,1137
+2023-02,Computer Science,9975
+2023-02,Economics,153
+2023-02,Electrical Engineering and Systems Science,1142
+2023-02,Mathematics,5759
+2023-02,Other,7667
+2023-02,Physics,2053
+2023-02,Quantitative Biology,324
+2023-02,Quantitative Finance,198
+2023-02,Statistics,1219
+2023-03,Computer Science,13558
+2023-03,Economics,148
+2023-03,Electrical Engineering and Systems Science,1653
+2023-03,Mathematics,6687
+2023-03,Other,9042
+2023-03,Physics,2369
+2023-03,Quantitative Biology,366
+2023-03,Quantitative Finance,214
+2023-03,Statistics,1220
+2023-04,Computer Science,10753
+2023-04,Economics,160
+2023-04,Electrical Engineering and Systems Science,1323
+2023-04,Mathematics,5840
+2023-04,Other,7388
+2023-04,Physics,2095
+2023-04,Quantitative Biology,280
+2023-04,Quantitative Finance,178
+2023-04,Statistics,1003
+2023-05,Computer Science,14349
+2023-05,Economics,175
+2023-05,Electrical Engineering and Systems Science,1649
+2023-05,Mathematics,6946
+2023-05,Other,9131
+2023-05,Physics,2468
+2023-05,Quantitative Biology,341
+2023-05,Quantitative Finance,232
+2023-05,Statistics,1301
+2023-06,Computer Science,14573
+2023-06,Economics,161
+2023-06,Electrical Engineering and Systems Science,1492
+2023-06,Mathematics,7412
+2023-06,Other,8926
+2023-06,Physics,2526
+2023-06,Quantitative Biology,330
+2023-06,Quantitative Finance,217
+2023-06,Statistics,1365
+2023-07,Computer Science,11678
+2023-07,Economics,160
+2023-07,Electrical Engineering and Systems Science,1422
+2023-07,Mathematics,6463
+2023-07,Other,9335
+2023-07,Physics,2837
+2023-07,Quantitative Biology,369
+2023-07,Quantitative Finance,219
+2023-07,Statistics,1208
+2023-08,Computer Science,13717
+2023-08,Economics,198
+2023-08,Electrical Engineering and Systems Science,1606
+2023-08,Mathematics,7083
+2023-08,Other,9881
+2023-08,Physics,2629
+2023-08,Quantitative Biology,401
+2023-08,Quantitative Finance,227
+2023-08,Statistics,1101
+2023-09,Computer Science,12456
+2023-09,Economics,152
+2023-09,Electrical Engineering and Systems Science,1586
+2023-09,Mathematics,6679
+2023-09,Other,7896
+2023-09,Physics,2252
+2023-09,Quantitative Biology,363
+2023-09,Quantitative Finance,211
+2023-09,Statistics,1076
+2023-10,Computer Science,16489
+2023-10,Economics,204
+2023-10,Electrical Engineering and Systems Science,1685
+2023-10,Mathematics,7015
+2023-10,Other,8722
+2023-10,Physics,2629
+2023-10,Quantitative Biology,411
+2023-10,Quantitative Finance,235
+2023-10,Statistics,1511
+2023-11,Computer Science,14210
+2023-11,Economics,172
+2023-11,Electrical Engineering and Systems Science,1484
+2023-11,Mathematics,6885
+2023-11,Other,9125
+2023-11,Physics,2495
+2023-11,Quantitative Biology,418
+2023-11,Quantitative Finance,255
+2023-11,Statistics,1452
+2023-12,Computer Science,13449
+2023-12,Economics,185
+2023-12,Electrical Engineering and Systems Science,1464
+2023-12,Mathematics,6375
+2023-12,Other,8287
+2023-12,Physics,2182
+2023-12,Quantitative Biology,362
+2023-12,Quantitative Finance,206
+2023-12,Statistics,1211
+2024-01,Computer Science,13299
+2024-01,Economics,221
+2024-01,Electrical Engineering and Systems Science,1707
+2024-01,Mathematics,7364
+2024-01,Other,8639
+2024-01,Physics,2428
+2024-01,Quantitative Biology,410
+2024-01,Quantitative Finance,264
+2024-01,Statistics,1185
+2024-02,Computer Science,14839
+2024-02,Economics,218
+2024-02,Electrical Engineering and Systems Science,1498
+2024-02,Mathematics,7562
+2024-02,Other,8258
+2024-02,Physics,2452
+2024-02,Quantitative Biology,372
+2024-02,Quantitative Finance,283
+2024-02,Statistics,1479
+2024-03,Computer Science,16940
+2024-03,Economics,177
+2024-03,Electrical Engineering and Systems Science,1732
+2024-03,Mathematics,7643
+2024-03,Other,8767
+2024-03,Physics,2383
+2024-03,Quantitative Biology,438
+2024-03,Quantitative Finance,249
+2024-03,Statistics,1369
+2024-04,Computer Science,17045
+2024-04,Economics,215
+2024-04,Electrical Engineering and Systems Science,1672
+2024-04,Mathematics,7996
+2024-04,Other,8557
+2024-04,Physics,2389
+2024-04,Quantitative Biology,365
+2024-04,Quantitative Finance,242
+2024-04,Statistics,1402
+2024-05,Computer Science,17006
+2024-05,Economics,256
+2024-05,Electrical Engineering and Systems Science,1602
+2024-05,Mathematics,8165
+2024-05,Other,9296
+2024-05,Physics,2515
+2024-05,Quantitative Biology,394
+2024-05,Quantitative Finance,297
+2024-05,Statistics,1567
+2024-06,Computer Science,18319
+2024-06,Economics,223
+2024-06,Electrical Engineering and Systems Science,1888
+2024-06,Mathematics,7509
+2024-06,Other,9168
+2024-06,Physics,2796
+2024-06,Quantitative Biology,396
+2024-06,Quantitative Finance,251
+2024-06,Statistics,1709
+2024-07,Computer Science,19093
+2024-07,Economics,227
+2024-07,Electrical Engineering and Systems Science,1860
+2024-07,Mathematics,8435
+2024-07,Other,9846
+2024-07,Physics,2664
+2024-07,Quantitative Biology,469
+2024-07,Quantitative Finance,295
+2024-07,Statistics,1532
+2024-08,Computer Science,15587
+2024-08,Economics,215
+2024-08,Electrical Engineering and Systems Science,1626
+2024-08,Mathematics,7383
+2024-08,Other,8709
+2024-08,Physics,2443
+2024-08,Quantitative Biology,376
+2024-08,Quantitative Finance,229
+2024-08,Statistics,1264
+2024-09,Computer Science,17534
+2024-09,Economics,214
+2024-09,Electrical Engineering and Systems Science,2221
+2024-09,Mathematics,8563
+2024-09,Other,10266
+2024-09,Physics,2765
+2024-09,Quantitative Biology,449
+2024-09,Quantitative Finance,277
+2024-09,Statistics,1471
+2024-10,Computer Science,26186
+2024-10,Economics,309
+2024-10,Electrical Engineering and Systems Science,2868
+2024-10,Mathematics,10582
+2024-10,Other,11737
+2024-10,Physics,3190
+2024-10,Quantitative Biology,581
+2024-10,Quantitative Finance,358
+2024-10,Statistics,2141
+2024-11,Computer Science,18685
+2024-11,Economics,271
+2024-11,Electrical Engineering and Systems Science,1883
+2024-11,Mathematics,8906
+2024-11,Other,10273
+2024-11,Physics,2916
+2024-11,Quantitative Biology,532
+2024-11,Quantitative Finance,356
+2024-11,Statistics,1717
+2024-12,Computer Science,21471
+2024-12,Economics,302
+2024-12,Electrical Engineering and Systems Science,2185
+2024-12,Mathematics,10414
+2024-12,Other,11949
+2024-12,Physics,3108
+2024-12,Quantitative Biology,557
+2024-12,Quantitative Finance,357
+2024-12,Statistics,1739
+2025-01,Computer Science,18131
+2025-01,Economics,301
+2025-01,Electrical Engineering and Systems Science,1981
+2025-01,Mathematics,9666
+2025-01,Other,11787
+2025-01,Physics,3200
+2025-01,Quantitative Biology,487
+2025-01,Quantitative Finance,294
+2025-01,Statistics,1732
+2025-02,Computer Science,23388
+2025-02,Economics,350
+2025-02,Electrical Engineering and Systems Science,1818
+2025-02,Mathematics,9789
+2025-02,Other,11941
+2025-02,Physics,3037
+2025-02,Quantitative Biology,550
+2025-02,Quantitative Finance,335
+2025-02,Statistics,2150
+2025-03,Computer Science,27301
+2025-03,Economics,363
+2025-03,Electrical Engineering and Systems Science,2475
+2025-03,Mathematics,10531
+2025-03,Other,13863
+2025-03,Physics,3490
+2025-03,Quantitative Biology,610
+2025-03,Quantitative Finance,417
+2025-03,Statistics,2228
+2025-04,Computer Science,25951
+2025-04,Economics,374
+2025-04,Electrical Engineering and Systems Science,2344
+2025-04,Mathematics,11809
+2025-04,Other,14915
+2025-04,Physics,3728
+2025-04,Quantitative Biology,597
+2025-04,Quantitative Finance,415
+2025-04,Statistics,2161
+2025-05,Computer Science,32370
+2025-05,Economics,411
+2025-05,Electrical Engineering and Systems Science,2782
+2025-05,Mathematics,11811
+2025-05,Other,15532
+2025-05,Physics,3929
+2025-05,Quantitative Biology,666
+2025-05,Quantitative Finance,427
+2025-05,Statistics,2682
+2025-06,Computer Science,33115
+2025-06,Economics,428
+2025-06,Electrical Engineering and Systems Science,2805
+2025-06,Mathematics,11750
+2025-06,Other,15547
+2025-06,Physics,4088
+2025-06,Quantitative Biology,778
+2025-06,Quantitative Finance,378
+2025-06,Statistics,2793
