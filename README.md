@@ -35,7 +35,6 @@ This project explores patterns in arXiv metadata, focusing on category trends an
 - Scripts are modular and well-commented for clarity and reproducibility.
 
 For more details, see scripts in `cleaning/src/` and `visualization/src/`.
----
 
 ## Environment & Requirements
 This project uses Python 3.8+ and the following packages:
